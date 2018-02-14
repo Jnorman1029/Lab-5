@@ -1,3 +1,5 @@
+// I hate myself and git hub
+
 import java.util.Scanner;
 import java.util.*;
 public class Main {
